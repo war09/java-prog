@@ -28,7 +28,7 @@ public class ComputeAreaWithConsoleInput {
 		double area = radius * radius * 3.14159;
 		
 		System.out.println("The area of the circle of radius " + radius + " is " + area);
-		// display the result and done!!
+		// display the result
 
 	}
 
